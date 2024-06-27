@@ -1,0 +1,17 @@
+.btn {
+    border-radius: 10px;
+}
+
+
+.btn:hover {
+  box-shadow: 0 0 10px rgb(255, 255, 255);
+}
+
+@keyframes fadeIn {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
